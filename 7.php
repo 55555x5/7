@@ -7,8 +7,8 @@ $utterances='<script src="https://utteranc.es/client.js" repo="7ort/7" issue-ter
 // Posts
 $posts=[
     [
-        "9/4/2021",
-        "Lol",
-        "First post\nNice"
+        "1/9/2021",
+        "Nuevo tablón: t/ascii",
+        "Hola, solo quería avisar que acabo de abrir un nuevo tablón dedicado al <a href='https://es.wikipedia.org/wiki/Arte_ASCII'>arte ASCII</a>, eso, bye"
     ]
 ]; ?>
