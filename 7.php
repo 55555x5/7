@@ -11,4 +11,5 @@ $posts=[
         "Nuevo tablón: t/ascii",
         "Hola, solo quería avisar que acabo de abrir un nuevo tablón dedicado al <a href='https://es.wikipedia.org/wiki/Arte_ASCII'>arte ASCII</a>, eso, bye"
     ]
+    ["1/9/2021","Registro abierto","A partir de ahora, el registro a 7ort está abierto a todos, ya no hacen falta más códigos de invitación, pero todos los que los tengan van a obtener una insigunia de verificado automáticamente al registrarse.<br>--El crew de 7ort"]
 ]; ?>
